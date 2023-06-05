@@ -3,15 +3,14 @@
 <div id="header" align="center">
   <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/96a034beedb086d.png" width="100"/>
   <br/>
-  <h3>Welcome to my page</h3>
+  <h3>Welcome to my GitHub page</h3>
 </div>
 <div id="badges" align="center">
-  <h3>Check out my linkedin page:</h3>
+  <h2>Check out my linkedin page:</h2>
   <a href="https://www.linkedin.com/in/scott-shepherd-a4378570/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=aturike&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
