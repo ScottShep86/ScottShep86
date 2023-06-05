@@ -13,6 +13,10 @@
   <br/>
 </div>
 
+#### 🧑‍💻 About me
+
+<p>I was born and raised in Croydon, United Kingdom but moved to Berlin in 2011. I started my career working in the Music Industry and became a department head in an Event Managment company. In 2023 I decided to move into Web Development and graduated from a Bootcamp as Full Stack Web Development in June 2023. I am looking for a Front- or Backend Junior Web Development position.</p>
+
 <!--
 **ScottShep86/ScottShep86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
