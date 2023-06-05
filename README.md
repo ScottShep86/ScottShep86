@@ -6,7 +6,7 @@
   <h3>Welcome to my GitHub page</h3>
 </div>
 <div id="badges" align="center">
-  <h2>Check out my linkedin page:</h2>
+  <h4>Check out my linkedin page:</h4>
   <a href="https://www.linkedin.com/in/scott-shepherd-a4378570/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
